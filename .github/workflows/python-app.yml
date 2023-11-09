@@ -3,7 +3,7 @@ name: Update README with Language Stats
 on:
   schedule:
     # 매일 자정(UTC 기준)에 워크플로우를 실행합니다.
-    - cron: '45 03 * * *'
+    - cron: '00 04 * * *'
   workflow_dispatch:
     # 이 옵션은 GitHub UI를 통해 워크플로우를 수동으로 트리거할 수 있게 해줍니다.
 
@@ -39,8 +39,8 @@ jobs:
     # README.md 파일을 커밋하고 푸시합니다.
     - name: Commit and Push changes
       run: |
-        git config --global user.name 'your-github-username'
-        git config --global user.email 'your-email@example.com'
+        git config --global user.name 'hojoonSong'
+        git config --global user.email 'bmp.tom@yahoo.com'
         git add README.md
         git commit -m "Updated README with the latest language statistics"
         # main 브랜치에만 커밋하려면 아래의 '--set-upstream origin main'을 사용합니다.
