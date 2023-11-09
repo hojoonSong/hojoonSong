@@ -34,7 +34,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python .github/scripts/update_readme.py
+        python .github/script/update_readme.py
 
     # README.md 파일을 커밋하고 푸시합니다.
     - name: Commit and Push changes
