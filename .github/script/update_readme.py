@@ -1,4 +1,5 @@
 import requests
+import urllib.parse
 
 # 사용자 이름 설정
 username = "hojoonSong"
@@ -35,7 +36,9 @@ with open('README.md', 'w', encoding='utf-8') as f:
     # 각 언어에 대한 badge와 함께 사용량 정보를 작성합니다.
     for language, lines in sorted(languages.items(), key=lambda x: x[1], reverse=True):
         percentage = (lines / total_lines) * 100
-        f.write(f"[![{language}](https://img.shields.io/badge/{language.replace(' ', '%20')}-{lines}%20lines%20({percentage:.2f}%%)-blue?style=for-the-badge)]\n")
+        encoded_language = urllib.parse.quote(language)
+        badge_url = f"https://img.shields.io/badge/{encoded_language}-{lines} lines ({percentage:.2f}%%)-informational?style=for-the-badge&logo={encoded_language.lower()}&logoColor=white"
+        f.write(f"![{language} Badge]({badge_url})\n")
 
     f.write("\n\n## 언어 사용량\n\n")
     f.write("언어 | 코드 라인 수 | 퍼센테이지\n")
