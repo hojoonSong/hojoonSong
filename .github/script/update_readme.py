@@ -54,6 +54,18 @@ with open('README.md', 'w', encoding='utf-8') as f:
         encoded_label = urllib.parse.quote(f"{language} - {lines} lines ({percentage:.2f}%)")
         badge_url = f"https://img.shields.io/badge/{encoded_label}-informational?style=flat&logo={encoded_language.lower()}"
         f.write(f"![{language} Badge]({badge_url})\n")
+
+    # 기술 스택 섹션에 프레임워크와 기술 추가
+    f.write("### 🛠️ Frameworks and Technologies\n\n")
+    f.write("#### Primary Stack\n")
+    f.write("![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=springboot)\n")
+    f.write("![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)\n\n")
+
+    f.write("#### Secondary Stack\n")
+    f.write("![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)\n")
+    f.write("![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)\n")
+    f.write("![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)\n")
+    f.write("![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)\n\n")
     
     # GitHub 통계 섹션 추가
     f.write("\n## 📈 GitHub Stats\n\n")
