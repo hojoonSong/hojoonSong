@@ -1,7 +1,7 @@
 import requests
 
 # 사용자 이름 설정
-username = "your_github_username"
+username = "hojoonSong"
 
 # GitHub API로부터 저장소 목록을 가져옵니다.
 response = requests.get(f"https://api.github.com/users/{username}/repos")
