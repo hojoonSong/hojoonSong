@@ -3,7 +3,7 @@ name: Update README with Language Stats
 on:
   schedule:
     # 매일 자정(UTC 기준)에 워크플로우를 실행합니다.
-    - cron: '03 39 * * *'
+    - cron: '45 03 * * *'
   workflow_dispatch:
     # 이 옵션은 GitHub UI를 통해 워크플로우를 수동으로 트리거할 수 있게 해줍니다.
 
