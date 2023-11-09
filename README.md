@@ -1,10 +1,10 @@
 ## 🙋‍♂️ About Me
 
-### 안녕하세요, 저는 **호준송**입니다.
+### 안녕하세요, 저는 **송호준**입니다.
 _솔직한 마음을 표현하고, 다른 사람의 어려움을 이해하는 개발자입니다._
 기술에 대한 깊은 이해와 함께 성장하고 싶은 동료들과 만나 성취를 즐기고 싶습니다.
 
-### Hello, I am **Hojoon Song**.
+### Hello, I am **Hojun Song**.
 _A developer who values honesty and understands the challenges others face._
 I look forward to growing alongside peers who share a deep understanding of technology and enjoying our achievements together.
 
