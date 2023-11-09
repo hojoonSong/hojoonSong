@@ -36,12 +36,12 @@ jobs:
       run: |
         python .github/script/update_readme.py
 
-    # README.md 파일을 커밋하고 푸시합니다.
     - name: Commit and Push changes
       run: |
         git config --global user.name 'hojoonSong'
         git config --global user.email 'bmp.tom@yahoo.com'
         git add README.md
-        git commit -m "Updated README with the latest language statistics"
-        # main 브랜치에만 커밋하려면 아래의 '--set-upstream origin main'을 사용합니다.
-        git push
+        git commit -m "Updated README with the latest language statistics" || echo "No changes to commit"
+        git push --set-upstream origin HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
