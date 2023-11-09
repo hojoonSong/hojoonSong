@@ -18,7 +18,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        persist-credentials: false # 이 옵션은 작업 중에 credentials이 저장되지 않도록 합니다.
+        persist-credentials: true # 이 옵션은 작업 중에 credentials이 저장되지 않도록 합니다.
 
     - name: Set up Python
       uses: actions/setup-python@v3
