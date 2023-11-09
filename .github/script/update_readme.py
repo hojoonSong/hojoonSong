@@ -24,14 +24,24 @@ for repo in repos:
         else:
             languages[language] = lines
 
-# 언어 데이터 출력
-print(languages)
+# 전체 코드 라인 수를 계산합니다.
+total_lines = sum(languages.values())
 
 # README.md 파일 생성 또는 업데이트
-with open('README.md', 'w') as f:
-    f.write("# 포트폴리오\n")
-    f.write("## 사용한 언어들\n")
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write("# 포트폴리오\n\n")
+    f.write("## 📚 기술 스택\n\n")
+    
+    # 각 언어에 대한 badge와 함께 사용량 정보를 작성합니다.
     for language, lines in sorted(languages.items(), key=lambda x: x[1], reverse=True):
-        f.write(f"- {language}: {lines} lines\n")
+        percentage = (lines / total_lines) * 100
+        f.write(f"[![{language}](https://img.shields.io/badge/{language.replace(' ', '%20')}-{lines}%20lines%20({percentage:.2f}%%)-blue?style=for-the-badge)]\n")
+
+    f.write("\n\n## 언어 사용량\n\n")
+    f.write("언어 | 코드 라인 수 | 퍼센테이지\n")
+    f.write("--- | --- | ---\n")
+    for language, lines in sorted(languages.items(), key=lambda x: x[1], reverse=True):
+        percentage = (lines / total_lines) * 100
+        f.write(f"{language} | {lines} | {percentage:.2f}%\n")
 
 # 이 스크립트는 로컬에서 실행되며, 생성된 README.md 파일을 GitHub에 push해야 합니다.
