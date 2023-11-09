@@ -24,6 +24,18 @@ _正直な心を表現し、他人の困難を理解する開発者です。_
 ![Pug Badge](https://img.shields.io/badge/Pug%20-%20275%20lines%20%280.05%25%29-informational?style=flat&logo=pug)
 ![Dockerfile Badge](https://img.shields.io/badge/Dockerfile%20-%20260%20lines%20%280.05%25%29-informational?style=flat&logo=dockerfile)
 ![CSS Badge](https://img.shields.io/badge/CSS%20-%20111%20lines%20%280.02%25%29-informational?style=flat&logo=css)
+### 🛠️ Frameworks and Technologies
+
+#### Primary Stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=springboot)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+
+#### Secondary Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+
 
 ## 📈 GitHub Stats
 
