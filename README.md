@@ -14,12 +14,14 @@ _正直な心を表現し、他人の困難を理解する開発者です。_
 
 ## 📚 Tech Stack
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin%20-%20222676%20lines%20%2846.76%25%29-informational?style=flat&logo=kotlin)
-![Python Badge](https://img.shields.io/badge/Python%20-%20129059%20lines%20%2827.10%25%29-informational?style=flat&logo=python)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%2087303%20lines%20%2818.33%25%29-informational?style=flat&logo=typescript)
-![Java Badge](https://img.shields.io/badge/Java%20-%2022163%20lines%20%284.65%25%29-informational?style=flat&logo=java)
-![HTML Badge](https://img.shields.io/badge/HTML%20-%2013556%20lines%20%282.85%25%29-informational?style=flat&logo=html)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript%20-%201423%20lines%20%280.30%25%29-informational?style=flat&logo=javascript)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin%20-%20222676%20lines%20%2827.65%25%29-informational?style=flat&logo=kotlin)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%20219934%20lines%20%2827.31%25%29-informational?style=flat&logo=typescript)
+![Python Badge](https://img.shields.io/badge/Python%20-%20129059%20lines%20%2816.03%25%29-informational?style=flat&logo=python)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript%20-%20106927%20lines%20%2813.28%25%29-informational?style=flat&logo=javascript)
+![CSS Badge](https://img.shields.io/badge/CSS%20-%2058817%20lines%20%287.30%25%29-informational?style=flat&logo=css)
+![HTML Badge](https://img.shields.io/badge/HTML%20-%2045364%20lines%20%285.63%25%29-informational?style=flat&logo=html)
+![Java Badge](https://img.shields.io/badge/Java%20-%2022163%20lines%20%282.75%25%29-informational?style=flat&logo=java)
+![Dockerfile Badge](https://img.shields.io/badge/Dockerfile%20-%20374%20lines%20%280.05%25%29-informational?style=flat&logo=dockerfile)
 ### 🛠️ Frameworks and Technologies
 
 #### Primary Stack
