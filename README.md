@@ -45,5 +45,5 @@ _正直な心を表現し、他人の困難を理解する開発者です。_
 
 [Visit my development blog](https://velog.io/@who_doctor)
 
-## 🌐 Social
-
+## 🌐 CV
+[CV.pdf](https://github.com/hojoonSong/hojoonSong/files/15068471/Hojun.Song.%2B821099591994.pdf)
