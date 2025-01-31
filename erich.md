@@ -4,7 +4,7 @@
 일부 저서에는 해설서가 함께 제공되니, 해당 도서가 선정될 경우 해설서와 함께 읽어보시기를 적극 권장드립니다.  
 철학 도서의 해설서는 깊은 해석과 이해가 가능하도록 돕습니다.
 
-# 실존주의 마무리와 함께 소유냐 존재냐로 에리히 프롬 시작
+## 실존주의 마무리와 함께 소유냐 존재냐로 에리히 프롬 시작
 
 ## 📘 소유냐 존재냐 (4주차 책)
 | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" width="200" height="300" alt="소유냐 존재냐"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955861549.jpg" width="200" height="300" alt="소유냐 존재냐"> |
