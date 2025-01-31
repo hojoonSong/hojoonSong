@@ -2,7 +2,18 @@
 
 여러 출판사에서 출간된 책들은 판매량과 최근 출간을 바탕으로 대표적으로 올려두었습니다.  
 일부 저서에는 해설서가 함께 제공되니, 해당 도서가 선정될 경우 해설서와 함께 읽어보시기를 적극 권장드립니다.  
-철학 도서의 해설서는 깊은 해석이 가능하도록 돕습니다.
+철학 도서의 해설서는 깊은 해석과 이해가 가능하도록 돕습니다.
+
+# 실존주의 마무리와 함께 소유냐 존재냐로 에리히 프롬 시작
+
+## 📘 소유냐 존재냐 (4주차 책)
+| <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" width="200" height="300" alt="소유냐 존재냐"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955861549.jpg" width="200" height="300" alt="소유냐 존재냐"> |
+|---|---|
+
+- **해설서 저자:** 박찬국
+- **출판사:** 까치, 세창(해설본)
+- **출판일:** 2020년
+
 
 ## ❤️ 사랑의 기술
 | ![표지1](https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788931011623.jpg) | ![표지2](https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788955867626.jpg) |
@@ -12,13 +23,6 @@
 - **출판사:** 문예출판사, 세창(해설본)
 - **출판일:** 2019년 9월
 
-## 📘 소유냐 존재냐
-| <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" width="200" height="300" alt="소유냐 존재냐"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955861549.jpg" width="200" height="300" alt="소유냐 존재냐"> |
-|---|---|
-
-- **해설서 저자:** 박찬국
-- **출판사:** 까치, 세창(해설본)
-- **출판일:** 2020년
 
 ## 🕊️ 자유로부터의 도피
 | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791160804751.jpg" width="200" height="300" alt="자유로부터의 도피"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955867152.jpg" width="200" height="300" alt="자유로부터의 도피"> |
