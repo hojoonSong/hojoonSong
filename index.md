@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "에리히 프롬 저서 목록"
-description: "에리히 프롬의 저서 목록과 간단한 소개를 제공합니다."
+layout: page
+title: "📚 에리히 프롬 저서 목록"
+permalink: /
+mobile-responsive: true # 모바일 최적화 활성화
+header:
+  image: /assets/header.jpg
+  caption: "에리히 프롬 도서 컬렉션"
 ---
-
 # 📚 **에리히 프롬 저서 목록**
 
 여러 출판사에서 출간된 책들은 **판매량**과 **최근 출간**을 바탕으로 대표적으로 올려두었습니다.  
