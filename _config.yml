@@ -8,7 +8,7 @@ plugins:
   - jekyll-paginate
 
 # 테마 커스텀 설정
-text_skin: default # dark 모드: "dark"
+text_skin: dark
 header:
   theme: auto # 헤더 색상 자동 조절
 footer:
