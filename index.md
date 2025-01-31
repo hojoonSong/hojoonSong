@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: 에리히 프롬 저서 목록
 ---
 
