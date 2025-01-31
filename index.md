@@ -1,8 +1,10 @@
 ---
-layout: jekyll-theme-minimal
 title: 독서모임 from 마음일기
+nav_order: 1
 ---
 
+# 독서모임 from 마음일기
+이곳은 독서모임을 위한 공간입니다.
 
 # 📚 **에리히 프롬 저서 목록**
 
