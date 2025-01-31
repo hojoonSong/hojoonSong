@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: jekyll-theme-cayman
 title: 독서모임 from 마음일기
 ---
+
 
 # 독서모임 from 마음일기
 이곳은 독서모임을 위한 공간입니다.
