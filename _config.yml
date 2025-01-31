@@ -1,1 +1,15 @@
-theme: pages-themes/minimal
+# _config.yml
+
+theme: jekyll-text-theme
+remote_theme: kitian616/jekyll-TeXt-theme # GitHub Pages용
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# 테마 커스텀 설정
+text_skin: default # dark 모드: "dark"
+header:
+  theme: auto # 헤더 색상 자동 조절
+footer:
+  theme: dark # 푸터 다크 모드
