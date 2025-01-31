@@ -1,12 +1,8 @@
 ---
-layout: page
-title: "📚 에리히 프롬 저서 목록"
-permalink: /
-mobile-responsive: true # 모바일 최적화 활성화
-header:
-  image: /assets/header.jpg
-  caption: "에리히 프롬 도서 컬렉션"
+layout: default
+title: My Documentation
 ---
+
 
 # 📚 **에리히 프롬 저서 목록**
 
