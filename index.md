@@ -1,6 +1,8 @@
 ---
+layout: home
 title: 독서모임 from 마음일기
-nav_order: 1
+author: "우리 모두"
+description: "책을 읽고, 리뷰하는 공간"
 ---
 
 # 독서모임 from 마음일기
