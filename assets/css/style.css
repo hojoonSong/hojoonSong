@@ -1,4 +1,27 @@
+/* Google Fonts에서 나눔글꼴 가져오기 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Nanum+Myeongjo:wght@400;700&display=swap');
+
 body {
-    font-family: 'Noto Sans', sans-serif;
-    font-size: 18px;
+    font-family: 'Nanum Gothic', sans-serif; /* 기본 폰트 */
+    font-size: 18px; /* 글자 크기 */
+    line-height: 1.6; /* 줄 간격 */
+    color: #333; /* 글자 색상 */
+    background-color: #f9f9f9; /* 배경 색상 */
+    padding: 20px;
 }
+
+/* 제목 폰트 스타일 변경 */
+h1, h2, h3 {
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: bold;
+    color: #222;
+}
+
+/* 링크 스타일 */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration
