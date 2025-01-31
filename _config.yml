@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+title: "내 블로그 제목"
+description: "블로그 설명을 여기에 작성하세요."
+author:
+  name: "작성자 이름"
+  email: "이메일 주소"
+
+# Minimal Mistakes Remote Theme 설정
+remote_theme: mmistakes/minimal-mistakes@v4.24.0
+
+# 필수 플러그인 추가
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# 기본 언어 설정 (선택 사항)
+language: "ko"
+
+# 기타 설정 (필요에 따라 추가)
+markdown: kramdown
+theme: minimal-mistakes
