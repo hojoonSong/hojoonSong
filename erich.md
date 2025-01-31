@@ -4,8 +4,8 @@
 프롬의 유명한 저서에는 해설서도 존재하므로, 선정되면 해설서와 함께 읽어보시길 바랍니다.
 
 ## ❤️ 사랑의 기술
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788931011623.jpg" width="200" height="300">
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788955867626.jpg" width="200" height="300">
+| ![표지1](https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788931011623.jpg) | ![표지2](https://contents.kyobobook.co.kr/sih/fit-in/200x300/pdt/9788955867626.jpg) |
+|---|---|
 
 - **해설서 저자:** 박찬국
 - **출판사:** 문예출판사, 세창(해설본)
@@ -13,8 +13,8 @@
 
 
 ## 🔄 소유냐 존재냐
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" width="200" height="300">
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955861549.jpg" width="200" height="300">
+| <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" width="200" height="300" alt="이미지1"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955861549.jpg" width="200" height="300" alt="이미지2"> |
+|---|---|
 
 - **해설서 저자:** 박찬국
 - **출판사:** 까치, 세창(해설본)
@@ -22,9 +22,8 @@
 
 
 ## 🕊️ 자유로부터의 도피
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791160804751.jpg" width="200" height="300">
-<img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955867152.jpg" width="200" height="300">
-
+| <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791160804751.jpg" width="200" height="300" alt="이미지1"> | <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788955867152.jpg" width="200" height="300" alt="이미지2"> |
+|---|---|
 - **해설서 저자:** 임채광
 - **출판사:** 휴머니스트, 세창(해설본)
 - **출판일:** 2020년
