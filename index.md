@@ -1,5 +1,5 @@
 ---
-layout: mmistakes/minimal-mistakes
+layout: default
 title: 독서모임 from 마음일기
 ---
 
