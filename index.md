@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
 title: 독서모임 from 마음일기
+description: "책을 읽고, 리뷰하는 공간"
 ---
-
 
 # 독서모임 from 마음일기
 이곳은 독서모임을 위한 공간입니다.
