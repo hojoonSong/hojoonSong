@@ -1,6 +1,6 @@
 ---
-layout: home
-title: 에리히 프롬 저서 목록
+layout: default
+title: My Custom Theme
 ---
 
 # 📚 **에리히 프롬 저서 목록**
