@@ -17,4 +17,4 @@ language: "ko"
 
 # 기타 설정 (필요에 따라 추가)
 markdown: kramdown
-theme: minimal-mistakes
+# theme: minimal-mistakes  # 제거됨
