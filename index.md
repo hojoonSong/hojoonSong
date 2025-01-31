@@ -1,6 +1,7 @@
 ---
 layout: default
-title: My Custom Theme
+title: "에리히 프롬 저서 목록"
+description: "에리히 프롬의 저서 목록과 간단한 소개를 제공합니다."
 ---
 
 # 📚 **에리히 프롬 저서 목록**
