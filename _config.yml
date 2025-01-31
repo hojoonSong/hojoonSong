@@ -1,5 +1,1 @@
-remote_theme: le4ker/lagrange
-title: "독서 모임"
-description: "에리히 프롬 저서 목록 및 독서 모임" 
-author: "우리 모두"
-lang: "ko" 
+remote_theme: daattali/beautiful-jekyll
