@@ -1,7 +1,9 @@
 ---
 layout: default
-title: My Documentation
+title: 독서모임 from 마음일기
 ---
+<link rel="stylesheet" href="assets/css/style.css">
+
 
 # 📚 **에리히 프롬 저서 목록**
 
