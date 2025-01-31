@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 독서모임 from 마음일기
+author: "우리 모두"
 description: "책을 읽고, 리뷰하는 공간"
 ---
 
