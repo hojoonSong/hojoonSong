@@ -1,14 +1,8 @@
----
-layout: home
-title: My Documentation
----
-
-
 # 📚 **에리히 프롬 저서 목록 (정리)**
 
 여러 출판사에서 출간된 책들은 **판매량**과 **최근 출간**을 바탕으로 대표적으로 올려두었습니다.  
 
-## 📘 **소유냐 존재냐 (4주차 책)**
+## 📘 **소유냐 존재냐**
 <table>
   <tr>
     <td><img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788972917038.jpg" alt="소유냐 존재냐" style="width:150px; height:auto;"></td>
@@ -19,10 +13,6 @@ title: My Documentation
 - **해설서 저자:** 박찬국
 - **출판사:** 까치, 세창(해설서)
 - **출판일:** 2020년
-
----
-
-## ❗️ 자신의 차례가 되면 아래의 책 중 하나를 선정해주세요! ❗️
 
 ---
 
